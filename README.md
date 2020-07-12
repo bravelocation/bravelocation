@@ -1,16 +1,20 @@
-### Hi there 👋
+![Segways at The Colosseum in Rome](rome.png)
 
-<!--
-**bravelocation/bravelocation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Brave Location Software
 
-Here are some ideas to get you started:
+Brave Location, through founder [John Pollard](https://bravelocation.com/cv), have been building Internet-based applications for over 20 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+John is an experienced ex-Microsoft developer, 
+    and has a wide range of experience in many different technical areas.
+
+Our main areas of expertise are in:
+ - Mobile development and design
+    - iOS native
+    - Android native
+    - Flutter
+    - A little Xamarin
+    - Hybrid development 
+ - Voice assistants
+ - Enterprise-scale websites.
+
+Brave Location is based is just south of the wall in Northumberland, UK.
