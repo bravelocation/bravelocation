@@ -18,3 +18,22 @@ Our main areas of expertise are in:
  - Enterprise-scale websites.
 
 Brave Location is based is just south of the wall in Northumberland, UK.
+
+## Open Source apps
+
+### Yeltzland - Halesowen Town apps on MANY platforms
+
+I've been developing websites and apps to help support my local football team [Halesowen Town](https://ht-fc.co.uk) for more years than I care to remember!
+
+The code for the apps can be found at:
+
+- [iOS app](https://github.com/bravelocation/yeltzland-ios) (including a WatchOS app in SwiftUI, tvOS, Today widget and Siti Shortcuts support)
+- [Android app](https://github.com/bravelocation/yeltzland-android)
+- [Alexa skill](https://github.com/bravelocation/yeltzland-alexa)
+- [Google Assistant skill](https://github.com/bravelocation/yeltzland-google-assistant)
+
+### Count The Days Left
+
+A Swift iOS/WatchOS app written as learning project - see [my blog](https://writingontablets.com/categories#Count%20The%20Days%20Left) for more details
+
+The code is all open source, and in [this repo](https://github.com/bravelocation/daysleft).
