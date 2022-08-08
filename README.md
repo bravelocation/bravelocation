@@ -27,7 +27,7 @@ I've been developing websites and apps to help support my local football team [H
 
 The code for the apps can be found at:
 
-- [iOS app](https://github.com/bravelocation/yeltzland-ios) (including a WatchOS app in SwiftUI, tvOS, Today widget and Siti Shortcuts support)
+- [iOS app](https://github.com/bravelocation/yeltzland-ios) (including a WatchOS app, tvOS, widgets,  Siri Shortcuts support)
 - [Android app](https://github.com/bravelocation/yeltzland-android)
 - [Alexa skill](https://github.com/bravelocation/yeltzland-alexa)
 - [Google Assistant skill](https://github.com/bravelocation/yeltzland-google-assistant)
