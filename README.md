@@ -29,3 +29,13 @@ Brave Location is based is just south of the wall in Northumberland, UK.
 A SwiftUI iOS/WatchOS app written as learning project - see [my blog](https://writingontablets.com/categories#Count%20The%20Days%20Left) for more details
 
 The code is all open source, and in [this repo](https://github.com/bravelocation/daysleft).
+
+### Yeltzland 
+
+I've been developing websites and apps to help support my local football team [Halesowen Town](https://ht-fc.co.uk) for more years than I care to remember!
+
+There are iOS, watchOS, tvOS and Android apps, as well as Alexa and Google voice assistant skills.
+
+The code was open source, but as they are constantly in development I didn't want potential clients reviewing the code as they may not always be in a perfect state.
+
+However, if you'd like access to the code - particularly if you'd like to help on the development - please let me know at [johnp@bravelocation.com](mailto:johnp@bravelocation.com) as I'd be happy to help you out!
